@@ -1,2 +1,2 @@
 Sou Tetzdesen, focado em aprender novas tecnologias na área de programação e redes.
-Explorando Segurança de redes de computadores.
+Explorando a área de Segurança da Informação.
