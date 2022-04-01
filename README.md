@@ -1,8 +1,8 @@
 # Sobre
-Sou focado em aprender novas tecnologias na área de programação e redes.
-Explorando a área de Segurança da Informação.
 
-</br>
+### Sou focado em aprender novas tecnologias na área de programação e redes.
+### Explorando a área de Segurança da Informação.
+
 
 # Áreas de interesse
 <div style='display: inline-block'> 
