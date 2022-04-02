@@ -21,9 +21,9 @@
 
 </br>
 
-
 # Linktree
-  <img align="center" alt="PHP" src='https://img.shields.io/badge/linktree-6A5ACD?&style=for-the-badge&logo=linktree' href="https://linktr.ee/gabrieltetzner"/>
+[![Linktree](https://img.shields.io/badge/linktree-6A5ACD?&style=for-the-badge&logo=linktree)](https://linktr.ee/gabrieltetzner)
+
 
 </br>
 
