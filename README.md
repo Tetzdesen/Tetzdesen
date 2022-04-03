@@ -1,4 +1,4 @@
-# Hello World
+# Hello World!
 ### Olá! Sou Gabriel Tetzner.
 
 ### Sou focado em aprender novas tecnologias na área de programação e redes.
@@ -6,7 +6,7 @@
 
 </br>
 
-# Linguagens e tecnologias 
+# Linguagens e Tecnologias 
 <div style='display: inline-block'> 
     <img align="center" alt="Python" src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' />
     <img align="center" alt="Java" src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' />
