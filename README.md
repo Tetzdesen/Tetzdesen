@@ -19,14 +19,9 @@
    
 </div>
 
-
-</br>
-
 ## Redes Sociais
 [![Linktree](https://img.shields.io/badge/linktree-6A5ACD?&style=for-the-badge&logo=linktree)](https://linktr.ee/gabrieltetzner)
 
-
-</br>
 
 
 ## GitHub Status
