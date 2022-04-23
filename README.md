@@ -27,16 +27,3 @@
 
 ![Tetzdesen](https://github-readme-stats.vercel.app/api?username=Tetzdesen&show_icons=true&theme=algolia))
 
-## Pinned
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tetzdesen&repo=Chat-Socket-Java&theme=algolia)
-</br>
-(https://github.com/Tetzdesen/Chat-Socket-Java)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tetzdesen&repo=GeoLocalizadorIP-Java&theme=algolia)
-</br>
-(https://github.com/Tetzdesen/GeoLocalizadorIP-Java)
-
-
-
-
-
