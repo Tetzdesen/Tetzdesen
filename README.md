@@ -19,7 +19,7 @@
 
 ## Redes Sociais
 [![Linktree](https://img.shields.io/badge/linktree-6A5ACD?&style=for-the-badge&logo=linktree)](https://linktr.ee/gabrieltetzner)
-[![Dev](https://img.shields.io/badge/devto-6A5ACD?&style=for-the-badge&logo=devto)](https://linktr.ee/gabrieltetzner)
+[![Dev](https://img.shields.io/badge/dev.to-6A5ACD?&style=for-the-badge&logo=dev.to)](https://linktr.ee/gabrieltetzner)
 
 
 ## GitHub Status
