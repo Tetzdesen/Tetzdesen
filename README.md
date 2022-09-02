@@ -4,7 +4,6 @@
 ### Sou focado em aprender novas tecnologias na área de programação e redes.
 ### Explorando a área de Segurança da Informação.
 
-</br>
 
 <div style="text-align: center;">
 
@@ -36,7 +35,6 @@
 
 </div>
 
-</br>
 
 <div style="text-align: center;"> 
 
