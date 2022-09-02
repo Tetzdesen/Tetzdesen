@@ -1,15 +1,12 @@
 # Hello World!
 ### Hello! I am Gabriel Tetzner.
 
-</br>
 
 ### Sou focado em aprender novas tecnologias na área de programação e redes.
 ### Explorando a área de Segurança da Informação.
 
-</br>
-
 ## Linguagens e Tecnologias 
-</br>
+
 <div style='display: flex;'> 
     <div style='margin: 0 5px'>
    <img align="center" alt="Python" src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' />
@@ -36,7 +33,7 @@
 
 </div>
 
-</br>
+
 
 ## Redes Sociais
 [![Linktree](https://img.shields.io/badge/linktree-566675?&style=for-the-badge&logo=linktree)](https://linktr.ee/gabrieltetzner)
