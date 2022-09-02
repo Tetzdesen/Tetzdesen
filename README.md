@@ -4,7 +4,6 @@
 ### Sou focado em aprender novas tecnologias na área de programação e redes.
 ### Explorando a área de Segurança da Informação.
 
-
 <div style="text-align: center;">
 
 ## Linguagens e Tecnologias 
@@ -20,7 +19,6 @@
     <img align="center" alt="Prometheus" src='https://img.shields.io/badge/prometheus-87CEFA?&style=for-the-badge&logo=PROMETHEUS' />
     <img align="center" alt="Linux" src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' /> 
     </div>
-
 
 <div style="text-align: center;">
 
@@ -44,9 +42,9 @@
 
 <div align="center" width="49%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tetzdesen&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tetzdesen&layout=compact&theme=codeSTACKr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Tetzdesen](https://github-readme-stats.vercel.app/api?username=Tetzdesen&show_icons=true&theme=tokyonight)
+![Tetzdesen](https://github-readme-stats.vercel.app/api?username=Tetzdesen&show_icons=true&theme=codeSTACKr)
 
 </div>
 
