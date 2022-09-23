@@ -42,9 +42,9 @@
 
 <div align="center" width="49%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tetzdesen&layout=compact&theme=codeSTACKr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tetzdesen&layout=compact&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Tetzdesen](https://github-readme-stats.vercel.app/api?username=Tetzdesen&show_icons=true&theme=codeSTACKr)
+![Tetzdesen](https://github-readme-stats.vercel.app/api?username=Tetzdesen&show_icons=true&theme=midnight-purple)
 
 </div>
 
