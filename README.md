@@ -1,4 +1,4 @@
-- ### <b> Estudo Segurança da Informação. </b>
+- ### <b> Tenho interesse em Segurança da Informação. </b>
 - ### <b> Cursando Sistemas de Informação. </b>
 
 
