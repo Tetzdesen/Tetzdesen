@@ -1,5 +1,5 @@
 - ### <b> Tenho interesse em Segurança da Informação. </b>
-- ### <b> Cursando Sistemas de Informação. </b>
+- ### <b> Cursando Sistema de Informações. </b>
 
 
 ### <b> Hack The Box </b>
