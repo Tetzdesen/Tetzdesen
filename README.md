@@ -1,5 +1,5 @@
-- ### <b> Tenho interesse em Segurança da Informação. </b>
-- ### <b> Cursando Sistema de Informações. </b>
+- ### <b> I'm interested in Information Security. </b>
+- ### <b> I'm studying Information Systems.  </b>
 
 ### <b> GitHub Status </b>
 
