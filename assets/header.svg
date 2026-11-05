@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 268" width="840" height="268" role="img" aria-labelledby="title desc">
   <title id="title">Gabriel Tetzner Menegueti</title>
-  <desc id="desc">Terminal window introducing Gabriel Tetzner Menegueti: Java and Spring Boot backends, optimization, Linux, networks and security, from Espirito Santo, Brazil.</desc>
+  <desc id="desc">Janela de terminal apresentando Gabriel Tetzner Menegueti: Java e Spring Boot, Linux, redes e segurança, do Espírito Santo, Brasil.</desc>
   <style>
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", "Liberation Mono", monospace; font-size: 19px; }
     .prompt { fill: #3fb950; font-weight: 700; }
@@ -32,9 +32,9 @@
 
   <g class="line l1"><text x="28" y="72"><tspan class="prompt">$</tspan><tspan class="cmd" dx="10">whoami</tspan></text></g>
   <g class="line l2"><text x="28" y="110" class="name">Gabriel Tetzner Menegueti</text></g>
-  <g class="line l3"><text x="28" y="150"><tspan class="prompt">$</tspan><tspan class="cmd" dx="10">cat focus.txt</tspan></text></g>
-  <g class="line l4"><text x="28" y="178" class="out">Java &amp; Spring Boot · optimization · Linux, networks &amp; security</text></g>
-  <g class="line l5"><text x="28" y="216"><tspan class="prompt">$</tspan><tspan class="cmd" dx="10">echo $LOCATION</tspan></text></g>
-  <g class="line l6"><text x="28" y="244" class="out">Espírito Santo, Brazil</text></g>
+  <g class="line l3"><text x="28" y="150"><tspan class="prompt">$</tspan><tspan class="cmd" dx="10">cat foco.txt</tspan></text></g>
+  <g class="line l4"><text x="28" y="178" class="out">Java e Spring Boot · Linux, redes e segurança</text></g>
+  <g class="line l5"><text x="28" y="216"><tspan class="prompt">$</tspan><tspan class="cmd" dx="10">echo $LOCAL</tspan></text></g>
+  <g class="line l6"><text x="28" y="244" class="out">Espírito Santo, Brasil</text></g>
   <rect class="cursor" x="284" y="229" width="11" height="20"/>
 </svg>
